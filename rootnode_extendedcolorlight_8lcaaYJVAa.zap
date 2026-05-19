@@ -1,6 +1,6 @@
 {
   "fileFormat": 2,
-  "featureLevel": 109,
+  "featureLevel": 107,
   "creator": "zap",
   "keyValuePairs": [
     {
@@ -19,7 +19,7 @@
   "package": [
     {
       "pathRelativity": "relativeToZap",
-      "path": "..\\..\\connectedhomeip\\src\\app\\zap-templates\\zcl\\zcl.json",
+      "path": "../../protocols/connectedhomeip/src/app/zap-templates/zcl/zcl.json",
       "type": "zcl-properties",
       "category": "matter",
       "version": 1,
@@ -27,7 +27,7 @@
     },
     {
       "pathRelativity": "relativeToZap",
-      "path": "..\\..\\connectedhomeip\\src\\app\\zap-templates\\app-templates.json",
+      "path": "../../protocols/connectedhomeip/src/app/zap-templates/app-templates.json",
       "type": "gen-templates-json",
       "category": "matter",
       "version": "chip-v1"
